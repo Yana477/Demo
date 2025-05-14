@@ -1,3 +1,3 @@
 # Demo
 
-Some more content
+some content
